@@ -1,5 +1,6 @@
 # PRODIGY_CS_02
 Python Image Encryption and Decryption Tool Using Pixel Manipulation
+
 This project is a Python application that allows users to encrypt and decrypt images by manipulating their pixels. The program uses simple pixel-wise operations to encode and decode images. This provides a basic but effective method of image encryption.
 
 The tool features a user-friendly interface built with Tkinter. This allows users to easily load images, apply encryption or decryption, and save the processed images. The graphical interface makes it accessible even for users with limited programming experience.
